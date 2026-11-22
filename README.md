@@ -84,5 +84,3 @@ Je développe aussi des projets communautaires et des univers de jeu, avec une a
 J'apprends en expérimentant, en construisant et en améliorant mes projets. Chaque dépôt représente une nouvelle idée, un défi technique ou une expérience à partager.
 
 Merci d'être passé sur mon profil ! 💜
-
-**Made with 💜 by Zyumie**
