@@ -39,7 +39,7 @@ J'aime partir d'une idée, construire une solution concrète, la tester et l'am�
 
 ### 🥽 Unity & VRChat
 
-- **[ZyumieAvatarSuite](https://github.com/Zyumie/ZyumieAvatarSuite)** — Toolkit Unity pour diagnostiquer, préparer et optimiser des avatars VRChat, avec des outils de tracking et de compatibilité multiplateforme. Projet en développement.
+- **[ZyumieAvatarSuite](https://github.com/Zyumie/ZyumieAvatarSuite)** — Toolkit Unity pour diagnostiquer, préparer et optimiser des avatars VRChat, avec des outils de tracking.
 
 ### ⚔️ Minecraft — Boss & événements
 
